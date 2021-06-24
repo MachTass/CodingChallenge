@@ -1,0 +1,17 @@
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\ReverseLinkedList.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\ReverseLinkedList.pdb
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\nunit.framework.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.abstractions.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.assert.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.core.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\nunit.framework.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.abstractions.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.assert.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.core.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\obj\Debug\ReverseLinkedList.csprojAssemblyReference.cache
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\obj\Debug\ReverseLinkedList.csproj.CopyComplete
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\obj\Debug\ReverseLinkedList.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ReverseLinkedList\obj\Debug\ReverseLinkedList.pdb

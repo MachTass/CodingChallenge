@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f88078c_002D5046_002D4ef2_002D8bcc_002Db56fab9b42be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCreateLinkedList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F93F8860-6793-423C-B999-E7BBD79555F0::.NETFramework,Version=v4.6.1::ReverseLinkedList.Tests.TestCreateLinkedList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F93F8860-6793-423C-B999-E7BBD79555F0::.NETFramework,Version=v4.6.1::ReverseLinkedList.Tests.TestReverseLinkedList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.TestEmptyString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.TestInvalidBracket&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.TestValidBracket&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("(as)()kd((l();jh)f)",True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("&amp;lt;())((()())()&amp;gt;",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("[())((()())()]",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("({))(((}())())",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("(())((()())())",True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("(",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest(")(()))",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("askdl;jhf",True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest(")(",False)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("()",True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest("",True)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::61914384-17AE-4B43-901C-7CF10042E116::.NETFramework,Version=v4.6.1::ValidParenthesis.Tests.IsValidTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

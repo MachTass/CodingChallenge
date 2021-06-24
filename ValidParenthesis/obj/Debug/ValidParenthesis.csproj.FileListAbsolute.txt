@@ -1,0 +1,9 @@
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\bin\Debug\ValidParenthesis.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\bin\Debug\ValidParenthesis.pdb
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\bin\Debug\nunit.framework.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\bin\Debug\nunit.framework.xml
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\obj\Debug\ValidParenthesis.csprojAssemblyReference.cache
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\obj\Debug\ValidParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\obj\Debug\ValidParenthesis.csproj.CopyComplete
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\obj\Debug\ValidParenthesis.dll
+C:\Users\Max van Duin\RiderProjects\CodingChallenge\ValidParenthesis\obj\Debug\ValidParenthesis.pdb
