@@ -1,10 +1,13 @@
 import numpy as np
+from timeit import default_timer
 
 dots = []
 folds = []
 
 maxx = 0
 maxy = 0
+
+start_time = default_timer()
 
 with open("dots-folds.txt") as file:
     for line in file:
@@ -57,3 +60,7 @@ for fold in folds:
 final_matrix = np.where(dot_matrix == 1, '#', dot_matrix)
 true_final_matrix = np.where(dot_matrix == 0, '.', final_matrix)
 print(true_final_matrix)
+
+duration = default_timer() - start_time
+
+print(duration)
